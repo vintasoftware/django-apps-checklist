@@ -3,10 +3,11 @@
 # Django Apps Checklist
 
 ## Adding a New Language:
+  * [ ] Fork this repository;
   * [ ] To add a new language you will need to create another markdown file containing the new [acronym language:](https://www.loc.gov/standards/iso639-2/php/code_list.php)
-    * E.g. `checklist-pt.md`.
-  * [ ] No further approval will be necessary;
-  * [ ] The new checklist language should be visible on Devckecklists after you saved the file on your forked repository.
+    * E.g. `checklist-es.md`.
+  * [ ] Submit a pull request for the forked repository;
+  * [ ] The new checklist language should be visible on Devckecklists after we approve and merge your pull request.
 
 ## Important Notes:
   * [ ] Markdown is the only way to write checklists on Devchecklists;
